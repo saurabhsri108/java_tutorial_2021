@@ -11,6 +11,7 @@ This is a repository for the YouTube Course created by me. The aim of this repos
 1. [Introduction](./java_notes/1.introduction.md)
 2. [JDK Installation, IDE Installation, and Running our first code](./java_notes/2.java_installation.md)
 3. [Syntax of Java Program](./java_notes/3.syntax_of_java_program.md)
+4. [Explaining the Hello World Program](./java_notes/4.explaining_hello_world_and_comments.md)
 
 ## Created By:
 #### [Saurabh Srivastava](https://github.com/vasudeveloper001)
