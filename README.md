@@ -14,6 +14,7 @@ This is a repository for the YouTube Course created by me. The aim of this repos
 4. [Explaining the Hello World Program](./java_notes/4.explaining_hello_world_and_comments.md)
 5. [How Java Program Runs](./java_notes/5.how_java_program_runs.md)
 6. [Variables, Constants, and Data Types](./java_notes/6.variables_constants_and_data_types.md)
+7. [Strings](./java_notes/7.strings.md)
 
 ## Created By:
 #### [Saurabh Srivastava](https://github.com/vasudeveloper001)
