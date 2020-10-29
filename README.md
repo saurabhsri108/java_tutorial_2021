@@ -15,6 +15,7 @@ This is a repository for the YouTube Course created by me. The aim of this repos
 5. [How Java Program Runs](./java_notes/5.how_java_program_runs.md)
 6. [Variables, Constants, and Data Types](./java_notes/6.variables_constants_and_data_types.md)
 7. [Strings](./java_notes/7.strings.md)
+8. [Escape Sequence](./java_notes/8.escape_sequence.md)
 
 ## Created By:
 #### [Saurabh Srivastava](https://github.com/vasudeveloper001)
