@@ -83,6 +83,6 @@ public class VariablesAndConstants {
         Point point1 = new Point(1, 2);
         Point point2 = point1;
         point2.x = 4;
-        System.out.println(point2);
+        System.out.println(point1);
     }
 }
