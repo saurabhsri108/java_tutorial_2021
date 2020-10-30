@@ -17,6 +17,7 @@ This is a repository for the YouTube Course created by me. The aim of this repos
 7. [Strings](./java_notes/7.strings.md)
 8. [Escape Sequence](./java_notes/8.escape_sequence.md)
 9. [Type Casting and Operators](./java_notes/9_type_casting_and_operators.md)
+10. [Arrays and Multi-line Dimensional Arrays](./java_notes/10_arrays_and_multi_dimensional_arrays.md)
 
 ## Created By:
 #### [Saurabh Srivastava](https://github.com/vasudeveloper001)
