@@ -20,4 +20,4 @@ This is a repository for the YouTube Course created by me. The aim of this repos
 10. [Arrays and Multi-line Dimensional Arrays](./java_notes/10_arrays_and_multi_dimensional_arrays.md)
 
 ## Created By:
-#### [Saurabh Srivastava](https://github.com/vasudeveloper001)
+#### [Saurabh Srivastava](https://www.youtube.com/channel/UCHBONOEjtMti0oRA_qWADYA)
